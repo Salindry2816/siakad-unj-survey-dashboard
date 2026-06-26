@@ -1,0 +1,73 @@
+﻿Timestamp,Nama Lengkap,Status Mahasiswa UNJ,Prodi (Khusus Rumpun Manajemen) ,Umur,Jenis Kelamin,Seberapa sering menggunakan siakad?,Keperluan Menggunakan Siakad,Pernah mengalami kendala saat menggunakan SIAKAD?,SIAKAD UNJ sering mengalami loading lama saat diakses,SIAKAD UNJ sering error ketika digunakan (misalnya tidak bisa dibuka atau gagal memuat halaman),SIAKAD UNJ sering mengalami gangguan saat jam sibuk (misalnya saat mengisi KRS atau pembayaran UKT),Saya sering harus mengulang akses karena SIAKAD tiba-tiba tidak merespon ,Fitur dalam SIAKAD UNJ sering tidak berfungsi dengan baik,Tampilan menu pada SIAKAD UNJ membingungkan bagi pengguna ,Saya kesulitan memahami alur penggunaan SIAKAD UNJ ,Menu dalam SIAKAD UNJ terasa tidak terstruktur dengan baik ,Saya sering kesulitan menemukan informasi atau fitur yang dibutuhkan ,"Beberapa proses akademik (seperti mengisi KRS, pembayaran, atau cek nilai) terasa rumit dan membingungkan",Saya merasa kesal saat SIAKAD UNJ mengalami error ,"Saya merasa frustrasi ketika SIAKAD lambat saat digunakan, terutama pada saat ramai pengguna ",Masalah teknis pada SIAKAD membuat saya tidak nyaman menggunakannya ,Saya merasa jengkel ketika harus mengulang proses akibat gangguan sistem ,Pengalaman buruk saat menggunakan SIAKAD membuat saya enggan mengaksesnya kembali,Saya sering mengeluhkan masalah SIAKAD kepada teman atau pihak kampus ,"Saya menggunakan SIAKAD hanya karena kewajiban, bukan karena kenyamanan ",Saya merasa terpaksa tetap menggunakan SIAKAD meskipun sering mengalami masalah ,Masalah pada SIAKAD membuat saya kurang percaya terhadap sistem akademik kampus ,Saya merasa pengalaman buruk menggunakan SIAKAD mengurangi kepuasan saya sebagai mahasiswa.
+2026-04-15 18:57:39.655,Rabiah Dimas Azzahra,Aktif,Bisnis Digital - FEB,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,3,5,3,3,3,2,3,2,3,5,5,4,5,5,5,5,3,3,3
+2026-04-15 19:32:56.626,Zahra Nindya Putri,Aktif,Bisnis Digital - FEB,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,5,5,4,4,4,4,4,4,5,4,4,4,5,4,4,4,4
+2026-04-17 20:01:37.743,Muhamad Zulfikar ,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,4,5,3,3,3,3,3,4,4,4,4,3,3,5,5,5,5
+2026-04-17 20:03:05.436,Pandhito Dewandanu,Aktif,D4 - Pemasaran Digital,18-20 tahun,Laki-laki,Kadang-kadang,"KRS, Cek Nilai",Pernah,5,5,5,5,3,4,4,4,5,3,5,5,5,5,4,4,5,5,5,5
+2026-04-17 20:04:13.298,Fedina Mei Putri ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai",Pernah,4,2,5,4,4,4,4,3,4,2,4,4,5,5,4,5,5,5,4,5
+2026-04-17 20:11:04.495,Syahbila Aprilia,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,4,5,3,4,3,4,4,3,5,5,4,5,5,4,4,4,3,3
+2026-04-17 20:11:24.917,Nada Tsuraya,Aktif,S1 - Bisnis Digital,< 18 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,4,5,1,2,3,1,2,4,4,5,3,2,4,5,5,5,5
+2026-04-17 20:12:34.025,Tanisha Sabina Maharin,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,3,2,2,2,2,2,2,5,5,2,4,2,4,5,5,3,4
+2026-04-17 20:12:37.861,Muhammad Rafi Putra ,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,3,3,3,3,3,3,3,3,3,4,4,4,4,3,3,3,3,3,3
+2026-04-17 20:16:30.545,Daffa Maulana Yusuf,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,5,5,5,3,1,1,1,3,1,5,5,5,5,1,3,5,5,1,5
+2026-04-17 20:17:46.803,Syifa Nabila Eris,Aktif,D4 - Pemasaran Digital,20-22 tahun,Perempuan,Sangat sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,5,5,4,4,2,1,3,2,1,5,5,5,5,5,5,5,5,5,4
+2026-04-17 20:26:22.917,Esteria Padang ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai",Pernah,4,4,4,4,3,3,3,3,3,4,5,5,4,5,5,4,4,3,3,3
+2026-04-17 20:27:43.039,Mariana Br Hutajulu ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,3,3,2,3,2,3,5,5,5,4,5,5,5,5,4,5
+2026-04-17 20:31:05.439,Ridho Bagus ,Aktif,S1- Manajemen,18-20 tahun,Laki-laki,Sangat sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,3,3,3,1,1,3,5,5,5,5,5,5,5,3,5,5
+2026-04-17 21:26:30.614,Andini Nur Rachmawati ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,2,5,5,4,2,2,3,2,2,5,5,5,5,5,5,5,5,4,4
+2026-04-17 21:29:07.008,Mediana Utami,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,4,4,4,3,3,3,3,3,4,4,4,4,3,3,3,3,3,4
+2026-04-17 22:43:59.920,atifa savitri,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, liat jadwal klo lupa",Pernah,4,3,5,4,3,4,4,3,4,4,5,5,4,5,3,5,4,5,4,4
+2026-04-19 23:23:04.003,Muhammad ,Aktif,S1 - Bisnis Digital,20-22 tahun,Laki-laki,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,3,2,5,2,2,2,2,2,1,5,5,4,4,4,4,5,5,3,5
+2026-04-20 07:47:08.091,Raeya Kaka B,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,3,3,3,3,2,3,5,5,5,5,4,4,4,4,4,4
+2026-04-20 07:48:56.942,Adam Pahlawan,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Sering,"KRS, Cek Nilai",Pernah,5,4,5,5,4,3,3,4,4,3,5,5,5,5,3,3,5,5,4,4
+2026-04-20 07:55:33.364,Asysyifa Sarah Mailansyah,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,3,5,4,3,3,1,2,1,1,5,5,3,5,5,5,5,5,4,5
+2026-04-20 08:08:08.874,muhammad abhyasa aryaputra kurnia,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Kadang-kadang,KRS,Pernah,4,4,5,5,5,2,1,2,2,3,5,5,5,5,5,2,5,5,5,5
+2026-04-20 08:56:42.258,Jacinda Najla Bashira ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,5,4,4,4,4,4,5,5,5,5,4,5,5,5,4,5
+2026-04-20 09:24:43.562,Firania Khalisa Arfenti,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,4,2,1,1,1,2,1,5,5,5,5,4,5,4,4,4,5
+2026-04-20 09:31:08.880,Grace Naumi Emmanuella ,Aktif,S1- Manajemen,< 18 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,5,3,3,3,3,4,4,5,5,4,4,4,4,4,4,4,4
+2026-04-20 09:49:17.277,Rifa Fauziyah ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,4,4,3,2,2,3,2,3,3,4,4,4,2,3,4,4,3,3
+2026-04-20 09:52:20.528,Lintang Ayudyaningrum ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,4,4,4,5,4,4,4,5,5,4,4,4,4,4,4,4,4
+2026-04-20 09:55:27.386,Libby Calista Putri,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,KRS,Pernah,4,4,4,4,3,1,1,1,1,1,4,4,3,4,2,4,4,3,2,2
+2026-04-20 09:56:54.420,damar,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,5,3,2,2,3,2,5,5,5,5,2,5,3,4,2,2
+2026-04-20 09:56:55.286,Anastasia Dea Christina,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,5,4,4,3,3,3,2,2,2,5,5,5,5,3,5,4,4,3,5
+2026-04-20 09:58:19.152,Deswinda Gita Purwati ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai",Pernah,4,4,4,4,4,3,3,2,3,2,4,4,4,4,3,4,4,4,3,4
+2026-04-20 10:05:28.656,Azka Aimee Namiah,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Pembayaran UKT",Pernah,5,5,5,5,5,3,2,2,3,3,5,5,5,5,4,5,5,5,4,5
+2026-04-20 10:06:12.460,Audrey Rara Wulandari ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,3,4,4,3,2,2,2,3,2,3,3,3,3,2,3,3,3,3,3
+2026-04-20 10:10:48.607,Alifah fakhirah salsabila,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Pembayaran UKT",Pernah,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+2026-04-20 10:15:19.231,muhammad akbar adzanza aji,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,3,5,3,4,3,3,3,3,3,4,5,4,4,4,3,4,3,3,3
+2026-04-20 10:17:19.870,Siti Khotijah Ayu ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,4,4,4,2,2,2,3,2,5,5,4,4,3,4,2,4,4,4
+2026-04-20 10:24:19.496,Juanna Putri Cahya Kamila,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai",Pernah,3,4,3,5,3,2,2,2,2,2,4,4,3,3,3,3,5,3,3,4
+2026-04-20 10:26:04.934,Sarah Martha,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,3,5,3,2,2,3,3,3,3,5,5,4,5,3,4,4,3,3,3
+2026-04-20 10:27:59.829,Damar Prananda,Aktif,D4 - Pemasaran Digital,18-20 tahun,Laki-laki,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,5,5,4,5,2,2,2,2,2,5,5,4,5,1,4,4,4,4,4
+2026-04-20 10:34:19.332,Fidya Farhatus Soleha,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,5,4,5,3,3,2,3,3,3,4,4,4,4,2,3,4,3,3,3
+2026-04-20 10:35:50.233,Muhammad Jawwad,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,4,5,5,4,2,2,2,5,2,5,5,5,5,5,5,5,5,5,5
+2026-04-20 10:35:52.134,Sere Natali,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai",Pernah,3,3,5,4,1,1,1,1,1,1,5,5,5,5,2,4,4,1,1,1
+2026-04-20 10:37:53.249,innesya ananda nuurulhuda azizah,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,5,5,4,4,2,2,2,2,2,5,4,4,4,2,5,5,2,2,3
+2026-04-20 10:51:52.122,Meutia Ramadhany,Aktif,D4 - Pemasaran Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,4,5,4,3,3,3,4,3,4,4,4,4,4,3,4,4,3,3,2
+2026-04-20 10:55:30.416,Elda Tia Tira Florensia,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sangat sering,"KRS, Cek Nilai",Pernah,4,4,4,3,4,2,3,2,2,2,4,4,3,4,3,3,4,4,4,5
+2026-04-20 11:11:33.395,Sidiqoh Nurhafidhoh ,Aktif,D4 - Pemasaran Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,5,2,2,2,2,2,3,3,3,3,2,4,4,3,4,4
+2026-04-20 11:14:47.366,Hanun Zalfa Nurizzah,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,5,5,3,3,2,2,2,5,5,5,5,4,5,4,4,4,5
+2026-04-20 11:23:50.460,Umar Hafidz,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,3,5,3,2,2,3,3,3,2,5,5,5,5,3,3,5,4,5,5
+2026-04-20 11:24:57.999,Winna Nabilah ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sangat sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,5,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5
+2026-04-20 11:28:29.808,Aileen Sebayang,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai",Pernah,4,5,5,4,3,4,4,4,4,3,5,5,5,5,3,4,5,4,5,4
+2026-04-20 11:32:40.944,Sheila Wingsetiani,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,5,5,4,4,3,2,2,3,3,4,4,5,5,4,3,5,4,3,4
+2026-04-20 12:03:39.538,Devi Purnama Wati ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,4,4,4,4,2,2,3,2,2,5,5,3,4,4,4,2,2,3,1
+2026-04-20 12:54:42.230,Maysa Khoirushifa ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2026-04-20 12:57:15.026,Agilta Triyuni,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,5,4,2,3,3,3,3,5,5,4,4,3,4,4,4,4,4
+2026-04-20 13:56:17.634,Andi Jesica Tricia Imanuela P ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,4,5,3,3,2,2,4,4,2,5,4,5,5,4,4,4,4,4,4
+2026-04-20 15:46:53.648,Cindy Masayu,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,5,5,5,5,2,2,2,2,2,5,5,5,5,3,5,4,3,3,4
+2026-04-20 16:12:54.612,Rahma Novianti Londah,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,3,5,4,3,2,2,2,2,3,4,4,4,3,2,2,4,2,2,2
+2026-04-20 16:17:05.247,Ni Luh Ayu Mahendri,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,3,5,4,3,2,2,2,3,3,4,4,4,4,3,3,3,3,3,3
+2026-04-20 18:11:38.302,puti,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,4,4,2,4,3,2,4,4,2,4,4,4,4,4,4,4,4,4,4
+2026-04-20 20:00:40.613,Sharen Tina Uli Lumban Gaol,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,3,4,3,3,3,2,3,3,3,4,3,4,4,3,3,4,3,3,4
+2026-04-21 14:35:32.738,Rania,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,KRS,Pernah,4,4,4,4,4,3,3,3,3,3,5,5,4,5,4,3,5,5,4,4
+2026-04-21 18:56:09.954,Zahrotul Muthoharoh,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Sangat sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,4,4,4,2,2,2,2,2,4,4,4,4,2,4,3,3,3,2
+2026-04-21 20:35:14.052,Farras Nafisa,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai",Pernah,5,5,5,5,5,2,2,2,2,2,5,5,5,5,3,5,5,5,3,5
+2026-04-21 21:15:40.026,Tahta Mardiyati Umi,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai",Pernah,4,5,5,4,4,2,2,2,3,3,4,5,3,3,3,4,5,4,3,4
+2026-04-22 09:47:49.568,Serafino Namalo Manullang,Aktif,D4 - Pemasaran Digital,18-20 tahun,Laki-laki,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,4,4,5,5,3,5,5,5,5,4,4,4,3,4,4,5,5,5,5,5
+2026-06-16 11:55:20.765,Siti Arterina Annisa Hasanah ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,4,5,1,1,2,2,2,2,3,5,5,4,5,3,2,5,5,5,5
+2026-06-16 12:00:54.319,william breven,Aktif,S1- Manajemen,20-22 tahun,Laki-laki,Sangat sering,Cek Nilai,Pernah,5,5,5,5,5,3,4,5,5,5,5,5,5,3,4,3,5,5,5,5
+2026-06-16 12:03:42.132,Nadira Putri Emma ,Aktif,S1- Manajemen,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai",Pernah,4,4,4,4,3,2,2,2,2,2,4,3,3,4,2,4,4,2,2,2
+2026-06-16 13:55:32.295,Chaera Fushiguro,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Kadang-kadang,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,4,5,5,3,3,2,2,2,2,4,4,3,4,2,2,4,3,2,2
+2026-06-16 13:56:08.935,Fathiyyatun Nisa Khalis ,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,5,4,5,4,4,3,2,2,4,3,5,5,4,5,5,4,4,5,4,3
+2026-06-16 14:05:07.100,ibrahim,Aktif,S1 - Bisnis Digital,18-20 tahun,Laki-laki,Sangat sering,"KRS, Cek Nilai, Pembayaran UKT",Pernah,3,4,5,3,3,2,2,3,3,3,5,5,4,4,4,5,4,4,4,4
+2026-06-16 15:31:16.745,alyssa,Aktif,S1 - Bisnis Digital,18-20 tahun,Perempuan,Sering,"KRS, Cek Nilai",Pernah,5,5,5,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3

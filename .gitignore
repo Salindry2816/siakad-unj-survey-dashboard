@@ -30,5 +30,5 @@ WhatsApp Image*
 *.jpeg
 *.jpg
 
-# PDF files
-*.pdf
+# PDF files (source materials, not reports)
+PDRL*.pdf

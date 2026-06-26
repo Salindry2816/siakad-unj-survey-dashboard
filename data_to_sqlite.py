@@ -16,6 +16,11 @@ Script ini melakukan:
 import pandas as pd
 import sqlite3
 import os
+import sys
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 # ==================== KONFIGURASI ====================
 EXCEL_FILE = "SURVEY PENGALAMAN MAHASISWA DALAM MENGGUNAKAN SIAKAD UNJ (Jawaban).xlsx"
